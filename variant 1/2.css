@@ -1,0 +1,21 @@
+@media (max-width: 499px) {
+    nav {
+        visibility: hidden;
+        opacity: 0;
+    }
+}
+
+@media (min-width: 500px) {
+    body {
+        display: flex;
+        flex-flow: wrap;
+    }
+
+    nav ul li {
+        display: block;
+        background: grey;
+        height: 50px;
+        width: 100px;
+        border: solid red;
+    }
+}
