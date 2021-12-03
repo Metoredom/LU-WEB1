@@ -11,4 +11,6 @@ function generateDropDown() {
         opt.text = data[i].name;
         dd.appendChild(opt);
     }
+    
+    document.getElementsByTagName("body")[0].appendChild(dd);
 }
