@@ -10,6 +10,6 @@ function avgOfNumbers(numbers) {
         }
     });
    
-    if(count > 0) return sum/validNumbers.length;
+    if(count > 0) return sum/count;
     else return 0;
 };
