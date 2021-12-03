@@ -1,0 +1,11 @@
+span{
+  display: block;
+}
+@media only screen and (max-width: 400px) {
+  input{
+    width: 100px;
+  }
+  span{
+    display: inline;
+  }
+}
