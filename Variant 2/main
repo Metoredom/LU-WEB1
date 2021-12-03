@@ -1,0 +1,24 @@
+Task 1.
+1.	113
+2.	032
+3.	113
+4.	111
+The button color will be red, because although expressions 1 and 2 have the same specificity, expression 3 is written after expression 1, which means that the yellow color will be redefined to red.
+
+Task 2.
+	2.css
+  
+Task 3.
+	3.js
+  
+Task 4.
+The “.add” method is not applicable in this situation, you must use the “.appendChild” instead
+	4.js
+  
+Task 5.
+	5.js
+  
+Task 6.
+1.	The constructor function is the “Person” function (1-7 lines in the snippet).
+2.	For the object Bill will be available such properties like name (object of the first and last name {first: ‘Bill’, last: ‘Smith’)), interests with an array of interests [‘music’, ‘hockey’, ‘books’], course name via _proto_ properties {course: ‘Web Technologies’} and also method addInterest().
+3.	6.js
