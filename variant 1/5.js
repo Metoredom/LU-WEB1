@@ -3,12 +3,10 @@ function compare(a, b) {
 
 
     for (var key in b) {
-        if (a[key] != b[key]){
-            flag = false
+        if (a[key] !== b[key]){
+            flag = false;
             break;
         }
-
-
     }
     return flag;
 
