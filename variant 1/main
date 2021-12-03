@@ -1,0 +1,37 @@
+Task 1
+
+1. 122
+2. 112
+3. 021
+4. 014
+
+"Nature needs you" will be yellow, because 2nd selector is strongest one.
+
+
+Task 2
+
+Css file 2.css
+
+Task 3
+
+1. We want to collect all "a" tags, it means, that we have to write: "getElementsByTagName"
+
+2. After deleting element the index is shifted one element to the left, it means,
+    that we have to decrease counter "i" by one, when we find the element without href
+
+file 3.js
+
+Task 4
+
+4.js
+
+Task 5
+
+HMMMMMMMMMMMMMM 5.js
+
+Task 6
+
+Function Person (line 2-6)
+
+Mary: .firstName, .lastName, .age, .eyeColor, .father
+Jane: .firstName, .lastName, .age, .eyeColor, .father, .mother
